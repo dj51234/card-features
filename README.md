@@ -10,7 +10,7 @@
 
 ## Todo
 
-### Project setup
+### ~~Project setup~~
 
 - ~~vars~~
 - ~~globals~~
