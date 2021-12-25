@@ -13,8 +13,8 @@
 ### Project setup
 
 - ~~vars~~
-- globals
+- ~~globals~~
 
-### Desktop Layout
+### ~~Desktop Layout~~
 
-### Mobile Layout
+### ~~Mobile Layout~~
